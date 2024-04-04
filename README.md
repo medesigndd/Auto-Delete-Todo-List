@@ -69,3 +69,5 @@ we are looking for
 2. Clean code easy to read
 
 Bonus: if you have multiple solutions we could discuss those theories in our interview (no need to submit multiple versions, just send us the best one you think.)
+
+Install the dependencies: npm install • Start the development server: ng serve
