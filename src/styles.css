@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: grid;
+  grid-auto-rows: 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.data-list-container {
+  margin: 3rem 0;
+}
+
+.data-list-content,
+.fruit-content {
+  margin: 1rem 0;
+}
+
+.data-button {
+  font-size: 14px;
+  border-radius: 4px;
+  width: 150px;
+  padding: 1rem 0;
+  background-color: white;
+  box-shadow: 0;
+  border: 1px solid gainsboro;
+}
+
+.data-button:hover {
+  background-color: gainsboro;
+  cursor: pointer;
+}
